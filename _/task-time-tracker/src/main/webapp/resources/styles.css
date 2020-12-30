@@ -1,0 +1,58 @@
+.logo{background:url(images/3t.png) 0 no-repeat !important;margin-left:10px;}
+
+.logo-small{
+    background:url(images/icons/logo-small.png) 0 no-repeat !important;
+}
+
+.admin{
+    background:url(images/icons/admin.png) 0 no-repeat !important;
+}
+
+.addnew {
+    background:url(images/icons/addnew.png) 0 no-repeat !important;
+    
+}
+.delete{
+    background:url(images/icons/delete.png) 0 no-repeat !important;
+}
+.export {
+    background:url(images/icons/export.png) 0 no-repeat !important;
+    
+}
+.go{
+    background:url(images/icons/go.png) 0 no-repeat !important;
+}
+.refresh{
+    background:url(images/icons/refresh.png) 0 no-repeat !important;
+}
+  
+
+.save{
+    background:url(images/icons/save.png) 0 no-repeat !important;
+}
+.search {
+    background:url(images/icons/search.png) 0 no-repeat !important;
+    
+}
+
+.tasklog{
+    background:url(images/icons/tasklog.png) 0 no-repeat !important;
+}
+.logoff{
+    background:url(images/icons/logoff.png) 0 no-repeat !important;
+}
+.users {
+    background:url(images/icons/users.png) 0 no-repeat !important;    
+}
+
+.company {
+    background:url(images/icons/company.png) 0 no-repeat !important;    
+}
+.project {
+    background:url(images/icons/project.png) 0 no-repeat !important;    
+}
+.task {
+    background:url(images/icons/task.png) 0 no-repeat !important;    
+}
+
+
